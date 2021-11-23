@@ -17,4 +17,4 @@ Trade Finder Output
 
 Fast Order Update
 
-![Fast Order Update output](https://i.imgur.com/UT2mcTq.mp4)
+https://i.imgur.com/UT2mcTq.mp4
